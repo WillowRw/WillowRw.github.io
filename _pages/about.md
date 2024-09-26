@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Ruowen Qu"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -31,5 +32,4 @@ Wenxuan Wu, **Ruowen Qu**, Dongzi Shi, Tong Xiong, Xiangmin Xu, Xiaofen Xing, an
 
 * **KEST: Knowledge-Enhanced Spatio-Temporal Network for Cardiopulmonary Exercise Testing** \
 **Ruowen Qu**, Wenxuan Wu, Lin Shu, *In Conference on Bioinformatics and Biomedical Engineering (**BIBE**), 2024.*  [[pdf](https://willowrw.github.io/)] [[code](https://github.com/WillowRw/KEST)]
-
 
