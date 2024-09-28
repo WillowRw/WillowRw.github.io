@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings, I am a graduate student in the School of Electronic and Information Engineering (SCUT) underer the supervision of [Dr. Lin Shu](https://www2.scut.edu.cn/ft/2021/1102/c29779a449585/page.htm) and [Prof. YanWu Xu](https://www2.scut.edu.cn/ft/2021/1220/c29779a519449/page.htm) . My interest currently lies broadly in AI4Health. 
+Greetings, I am a graduate student in the School of Electronic and Information Engineering (SCUT) underer the supervision of [Dr. Lin Shu](https://www2.scut.edu.cn/ft/2021/1102/c29779a449585/page.htm) and [Prof. Yanwu Xu](https://www2.scut.edu.cn/ft/2021/1220/c29779a519449/page.htm) . My interest currently lies broadly in AI4Health. 
 
 Education
 ======
@@ -33,3 +33,9 @@ Wenxuan Wu, **Ruowen Qu**, Dongzi Shi, Tong Xiong, Xiangmin Xu, Xiaofen Xing, an
 * **KEST: Knowledge-Enhanced Spatio-Temporal Network for Cardiopulmonary Exercise Testing** \
 **Ruowen Qu**, Wenxuan Wu, Lin Shu, *In Conference on Bioinformatics and Biomedical Engineering (**BIBE**), 2024.*  [[pdf](https://willowrw.github.io/)] [[code](https://github.com/WillowRw/KEST)]
 
+* **A new approach for daily life Blood-Pressure estimation using smart watch** \
+Jiayu He, Jianlin Ou, An He, Lin Shu, Tao Liu, **Ruowen Qu**, Xiangmin Xu, Zhuoming Chen, Yifeng Yan, *In Biomedical Signal Processing and Control* 
+
+Other Projects
+======
+* **Life Signs Monitoring for Smart Pillows** \
