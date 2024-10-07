@@ -28,14 +28,14 @@ Publications
 
 
 * **Cortical Surface Reconstruction from 2D MRI with Segmentation-Constrained Super-Resolution and Representation Learning** \
-Wenxuan Wu, **Ruowen Qu**, Dongzi Shi, Tong Xiong, Xiangmin Xu, Xiaofen Xing, and Xin Zhang, *In Conference on Medical Image Computing and Computer Assisted (**MICCAI**), 2024.* [[pdf](https://willowrw.github.io/)] [[code](https://github.com/SCUT-Xinlab/CSR-from-2D-MRI)]
+Wenxuan Wu, **Ruowen Qu**, Dongzi Shi, Tong Xiong, Xiangmin Xu, Xiaofen Xing, and Xin Zhang, *In Conference on Medical Image Computing and Computer Assisted (**MICCAI**), 2024.* [[pdf](https://link.springer.com/chapter/10.1007/978-3-031-72069-7_10)] [[code](https://github.com/SCUT-Xinlab/CSR-from-2D-MRI)]
 
 * **KEST: Knowledge-Enhanced Spatio-Temporal Network for Cardiopulmonary Exercise Testing** \
 **Ruowen Qu**, Wenxuan Wu, Lin Shu, *In Conference on Bioinformatics and Biomedical Engineering (**BIBE**), 2024.*  [[pdf](https://willowrw.github.io/)] [[code](https://github.com/WillowRw/KEST)]
 
 * **A new approach for daily life Blood-Pressure estimation using smart watch** \
-Jiayu He, Jianlin Ou, An He, Lin Shu, Tao Liu, **Ruowen Qu**, Xiangmin Xu, Zhuoming Chen, Yifeng Yan, *In Biomedical Signal Processing and Control* 
+Jiayu He, Jianlin Ou, An He, Lin Shu, Tao Liu, **Ruowen Qu**, Xiangmin Xu, Zhuoming Chen, Yifeng Yan, *In Biomedical Signal Processing and Control*   [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S1746809422001380)]
 
 Other Projects
 ======
-* **Life Signs Monitoring for Smart Pillows** \
+* **Life Signs Monitoring for Smart Pillows** 
