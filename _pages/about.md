@@ -20,6 +20,10 @@ Internship
 ======
 * 2024.04 - 2024.06:  LLM Developer, HSBC Software Development Limited
 
+  Worked on a full-link RAG retrieval AI Chatbot for supporting the company's internal sensitive document Q&A, conducted interface testing on HSBC's LLM API and provided feedback to API developers.
+
+  Implemented new functional modules, including Query Rewrite, Structured Output Process, RAG optimization, etc.
+
 
 Publications
 ======
@@ -32,6 +36,9 @@ Wenxuan Wu, **Ruowen Qu**, Dongzi Shi, Tong Xiong, Xiangmin Xu, Xiaofen Xing, an
 
 * **KEST: Knowledge-Enhanced Spatio-Temporal Network for Cardiopulmonary Exercise Testing** \
 **Ruowen Qu**, Wenxuan Wu, Lin Shu, *In Conference on Bioinformatics and Biomedical Engineering (**BIBE**), 2024.*  [[pdf](https://willowrw.github.io/)] [[code](https://github.com/WillowRw/KEST)]
+
+* **MMPL-Seg: Prompt Learning with Missing Modalities for Medical Segmentation** \
+**Ruowen Qu**, Wenxuan Wu, Yeyi Guan, Lin Shu, *In Workshop on IEEE International Conference on Bioinformatics & Biomedicine (**BIBM**), 2024.*  [[pdf](https://willowrw.github.io/)] [[code](https://willowrw.github.io/)]
 
 * **A new approach for daily life Blood-Pressure estimation using smart watch** \
 Jiayu He, Jianlin Ou, An He, Lin Shu, Tao Liu, **Ruowen Qu**, Xiangmin Xu, Zhuoming Chen, Yifeng Yan, *In Biomedical Signal Processing and Control*   [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S1746809422001380)]
